@@ -179,7 +179,7 @@ Feature Importances, SHAP
 ---
 
 <div style="text-align: center;">
-    <img src="maps/bivariate_districts_all.png" alt="bivariate_districts_all" width="700"/>
+    <img src="maps/bivariate_choropleth_districts_all.png" alt="bivariate_choropleth_districts_all" width="700"/>
 </div>
 
 <div style="text-align: center;">
