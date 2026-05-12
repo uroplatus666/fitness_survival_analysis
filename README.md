@@ -178,6 +178,10 @@ Feature Importances, SHAP
 
 ---
 
+<div style="text-align: center;">
+    <img src="maps/bivariate_hexbin_all.png" alt="bivariate_hexbin_all" width="700"/>
+</div>
+
 ## Стек
 
 ```
